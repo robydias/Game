@@ -7,7 +7,7 @@ public class GameLotto {
 
 
         ArrayList<Integer> arrayList = new ArrayList();
-
+//////??????????//-----------
         Random random = new Random();
 
         for (int i = 0; i < 6; i++) {
