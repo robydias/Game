@@ -17,5 +17,14 @@ public class GameLotto {
             }
         System.out.println(arrayList);
         System.out.println(arrayList.size());
+        andom random = new Random();
+
+        for (int i = 0; i < 6; i++) {
+            int z = random.nextInt(49);  // random.nextInt(100);
+            arrayList.add(z);
+            ;
+        }/hfjfjfkkggksfglsznflgnsxzcvb,,,,,,,,,,,,,,,,,,,,,,,,,
+        System.out.println(arrayList);
+        System.out.println(arrayList.size());
         }
     }

@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2e6ff4c-bdd0-4614-9543-808d918fd6c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BasicSeleniumTraining/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BasicSeleniumTraining/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/src/main/resources/drivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/src/main/resources/drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/src/main/resources/drivers/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MidtermApril2019/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorkProject/HomeWorkJava" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorkProject/HomeWorkJava" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MidtermApril2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MidtermApril2019/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MidtermApril2019/src/datastructure/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MidtermApril2019/src/datastructure/DataReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySQL_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySQL_Practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OopHomeWork/OopHomeWork" beforeDir="false" afterPath="$PROJECT_DIR$/../OopHomeWork/OopHomeWork" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PyramidProject" beforeDir="false" afterPath="$PROJECT_DIR$/../PyramidProject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/Review.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/Review.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/out/production/Review/DataStructure/StackClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/out/production/Review/DataStructure/StackClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/out/production/Review/bufferPackage/BufferReadWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/out/production/Review/bufferPackage/BufferReadWrite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/out/production/Review/bufferPackage/ReadText.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/out/production/Review/bufferPackage/ReadText.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/out/production/Review/dataTypesnonprimitiveString/StringConcatenation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/out/production/Review/dataTypesnonprimitiveString/StringConcatenation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/out/production/Review/dataTypesnonprimitiveString/StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/out/production/Review/dataTypesnonprimitiveString/StringManipulation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/src/DataStructure/StackClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/src/DataStructure/StackClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/src/bufferPackage/BufferReadWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/src/bufferPackage/BufferReadWrite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/src/bufferPackage/ReadText.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/src/bufferPackage/ReadText.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/src/dataTypesnonprimitiveString/StringConcatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/src/dataTypesnonprimitiveString/StringConcatenation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/src/dataTypesnonprimitiveString/StringManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/src/dataTypesnonprimitiveString/StringManipulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/WeekDaysJava" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/WeekDaysJava" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jeff" beforeDir="false" afterPath="$PROJECT_DIR$/../jeff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gamePackage/GameLotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gamePackage/GameLotto.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/gamePackage/GameLotto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="135">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gamePackage/StackClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -73,14 +48,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/gamePackage/GameLotto.java" />
         <option value="$PROJECT_DIR$/src/gamePackage/Stack.java" />
         <option value="$PROJECT_DIR$/src/gamePackage/StackClass.java" />
+        <option value="$PROJECT_DIR$/src/gamePackage/GameLotto.java" />
       </list>
     </option>
   </component>
@@ -95,6 +70,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,7 +94,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,9 +160,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="722" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2819063" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28594506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -201,7 +175,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32857144" />
@@ -216,20 +190,20 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/gamePackage/GameLotto.java">
+    <entry file="file://$PROJECT_DIR$/src/gamePackage/StackClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gamePackage/StackClass.java">
+    <entry file="file://$PROJECT_DIR$/src/gamePackage/GameLotto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
